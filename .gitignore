@@ -1,0 +1,10 @@
+trash.py
+watevs/
+venv/
+__pycache__/
+.idea/
+assets/assets_trash
+*.png
+!assets/**/*.png
+*.jpg
+!assets/**/*.jpg
