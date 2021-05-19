@@ -60,6 +60,12 @@ python main.py --width 1000 --height 1000 --camera 0 --folder_levels star_wars -
 ```
 You can add folder with images to 'assets/levels/'.
 Just make sure you order them correctly (1.png, 2.jpg, 3.png, ...)
-![image](https://user-images.githubusercontent.com/73268650/118181763-7213ca80-b438-11eb-9aa5-5a0a2206dffa.png)
+![image](https://user-images.githubusercontent.com/73268650/118181763-7213ca80-b438-11eb-9aa5-5a0a2206dffa.png)  
+
+If you want to explore MediaPipe technology of mapping:
+``` bash
+python main_steering.py
+```
+![maping_2](https://user-images.githubusercontent.com/84282532/118807654-e02d1700-b8a8-11eb-97e4-b72e7febb509.gif)
 
 
