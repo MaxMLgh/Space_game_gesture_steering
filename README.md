@@ -60,7 +60,7 @@ python main.py
 You can change some parameters of the game through command line arguments or simply change them in the code
 ``` bash
 python main.py --width 1000 --height 1000 --camera 0 --folder_levels star_wars --initial_speed 10
- --speed_jump --pnt_next_lvl 100 2 --sound True --detection_confidence 0.4 --tracking_confidence 0.3
+ --speed_jump --pnt_next_lvl 100 2 --sound False --detection_confidence 0.4 --tracking_confidence 0.3
  --static_image_mode False
 ```
 You can add folder with images to 'assets/levels/'.

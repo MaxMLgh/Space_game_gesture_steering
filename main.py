@@ -144,7 +144,7 @@ if __name__ == "__main__":
     parser.add_argument('--pnt_next_lvl', type=int, default=100,
                         help='how many points to achieve next level')
     parser.add_argument('--sound', type=str2bool, nargs='?',
-                        const=True,  default='True', help='sounds of the game')
+                        const=True,  default='False', help='sounds of the game')
     parser.add_argument('--detection_confidence', type=float, default=0.4,
                         help='detection confidence')
     parser.add_argument('--tracking_confidence', type=float, default=0.3,
