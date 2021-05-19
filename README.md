@@ -1,6 +1,8 @@
 # Star Wars
 
-Star Wars is a game implemented in **PYTHON** library **Pygame**. To steer the spaceship we use **Mediapipe**, which is a library that uses **Artificial Intelligence** to recognize and map the positions of the points on your hands.
+Star Wars is a game implemented in **PYTHON** library **Pygame**. To steer the spaceship we use **Mediapipe**, which is a library that uses **Artificial Intelligence** to recognize and map the positions of the points on your hands.  
+Link to **Youtube** video:  
+https://www.youtube.com/watch?v=If5fU0IgPDw&t=517s  
 Our goal is to collect as many points as we can, you collect them by catching gems. You also have to look for asteroids and enemy spaceships, you can simply run from them or shoot them with a laser. If they hit you you will lose life points, you can restore them by catching tools. With more points, objects are appearing with higher velocity. 
 To steer the spaceship you need to pretend that you are holding a wheel, like you would do while driving a car. 
 The stronger you turn, the faster the spaceship will turn. You shoot laser by giving the thumbs up with both of your hands, while the rest of the fingers are folded.
